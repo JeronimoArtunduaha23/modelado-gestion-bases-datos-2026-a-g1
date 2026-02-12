@@ -1,0 +1,20 @@
+¿Qué pasaría si no definimos correctamente las claves de cada entidad desde el inicio?
+
+Si las claves no están bien definidas, se pueden generar registros duplicados, inconsistencias y dificultades para relacionar la información.
+
+Ejemplo:
+Si Estudiante no tiene una clave única, un mismo alumno podría aparecer dos veces con nombres similares, afectando notas, matrículas y reportes académicos.
+
+¿Qué ventajas aporta tener identificadas las entidades antes de pasar al diagrama ER formal?
+
+Permite entender qué información es realmente importante, cómo se relaciona y evita rediseños innecesarios en etapas posteriores.
+
+Ejemplo:
+Identificar previamente Estudiante, Asignatura y Grupo facilita construir un diagrama ER claro, con relaciones bien definidas y sin redundancias.
+
+¿Qué información adicional consideras crítica en un sistema académico que aún no hemos modelado?
+
+Información relacionada con docentes, programas académicos y evaluaciones, ya que son claves para la gestión completa del proceso educativo.
+
+Ejemplo:
+Incluir una entidad Evaluación permitiría registrar parciales, finales y porcentajes, mejorando el control académico y la generación de reportes.
