@@ -1,0 +1,5 @@
+Reflexión
+
+Puedes crear un archivo reflexion.txt o ponerlo en Word con este texto:
+
+PostgreSQL y MySQL son motores de bases de datos relacionales muy utilizados. PostgreSQL se destaca por su robustez y cumplimiento de estándares SQL, mientras que MySQL es conocido por su facilidad de uso y buen rendimiento en aplicaciones web. En este laboratorio se comprobó que ambos motores pueden desplegarse fácilmente usando contenedores Docker y permiten realizar operaciones básicas como crear bases de datos, tablas e insertar registros.
